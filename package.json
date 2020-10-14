@@ -20,6 +20,7 @@
   "homepage": "https://github.com/BrandonP321/my-first-game#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^5.1.0"
+    "express-handlebars": "^5.1.0",
+    "path": "^0.12.7"
   }
 }
